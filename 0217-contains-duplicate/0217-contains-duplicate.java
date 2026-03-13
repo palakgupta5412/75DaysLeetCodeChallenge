@@ -2,7 +2,6 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> map = new HashSet<>();
         int n = nums.length ;
-        Arrays.sort(nums);
         for(int i=0 ; i<n ; i++){
             if(map.contains(nums[i])){
                 return true ;
