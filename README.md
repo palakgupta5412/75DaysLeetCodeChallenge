@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
