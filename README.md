@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +77,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
