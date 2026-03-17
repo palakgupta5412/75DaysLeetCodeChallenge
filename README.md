@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
