@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [1079-letter-tile-possibilities](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0526-beautiful-arrangement](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [1079-letter-tile-possibilities](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
