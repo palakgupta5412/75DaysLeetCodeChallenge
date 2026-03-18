@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
