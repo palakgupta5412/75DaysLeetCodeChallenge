@@ -1,31 +1,30 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        int[] visited = new int[nums.length];
-        fn(ans,new ArrayList<>(),0,visited,nums);
-        return ans ;
+        List<Integer> temp = new ArrayList<>();
+        boolean[] map = new boolean[nums.length];
+        fn(ans,temp,nums,map);
+        return ans;
     }
 
-    public void fn(List<List<Integer>> ans , List<Integer> temp, int idx , int[] visited,int[] nums){
-        if(temp.size()==nums.length){
-            if(!ans.contains(temp)){
-                ans.add(new ArrayList<>(temp));
-                return ;
-            }
-        }
+    public void fn(List<List<Integer>> ans , List<Integer> temp , int[] nums , boolean[] map){
 
-        if(idx>=nums.length){
-            return ;
+
+        //Base Case :
+        if(temp.size()==nums.length){
+            ans.add(new ArrayList<>(temp));
+            return;
         }
 
         for(int i=0 ; i<nums.length ; i++){
-            if(visited[i]==0){
+            if(!map[i]){
                 temp.add(nums[i]);
-                visited[i]=1;
-                fn(ans,temp,idx+1,visited,nums);
+                map[i]=true ;
+                fn(ans,temp,nums,map);
                 temp.remove(temp.size()-1);
-                visited[i]=0 ;
+                map[i]=false;
             }
+
         }
     }
 }
