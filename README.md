@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [0605-can-place-flowers](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
