@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
+| [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
