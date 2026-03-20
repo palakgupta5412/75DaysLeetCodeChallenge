@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
