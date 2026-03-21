@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
