@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
