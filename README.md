@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
