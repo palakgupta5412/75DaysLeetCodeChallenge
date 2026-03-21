@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
