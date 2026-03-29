@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0437-path-sum-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
