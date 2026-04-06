@@ -1,11 +1,11 @@
 class Solution {
     public int findMin(int[] nums) {
-        int pivotIndex = returnPivotEleIndex(nums);
-        if(pivotIndex==-1){
+        int idx = returnPivotEleIndex(nums);
+        if(idx==-1){
             return nums[0];
         }
         else{
-            return nums[pivotIndex+1];
+            return nums[idx+1];
         }
     }
     public int returnPivotEleIndex(int nums[]) {
