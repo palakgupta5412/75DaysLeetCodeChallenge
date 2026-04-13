@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
