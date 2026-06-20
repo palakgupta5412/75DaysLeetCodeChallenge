@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3838-weighted-word-mapping](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+| [3838-weighted-word-mapping](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Binary Indexed Tree
 |  |
 | ------- |
