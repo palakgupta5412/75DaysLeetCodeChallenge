@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2574-left-and-right-sum-differences](https://github.com/palakgupta5412/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
